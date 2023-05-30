@@ -12,4 +12,4 @@ Using VsCode to create a guide to Github
 3. Using "git config --global user.name (username) "
 4. Using "git config --global user.email (user's email)"
 5. Now open a Repository on GitHub and name it "My first Repository". Make it private or public
-6. 
+6. Within the Powershell terminal use the command "git add remote add origin "GitHub repo Link".  
