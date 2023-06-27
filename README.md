@@ -1,7 +1,7 @@
 # GitHub-Guide
 Using VsCode to create a guide to Github
 
-
+![GitHub Repo](images/Repo.png)
 # Prerequisites
 * VsCode should be downloaded via : "https://code.visualstudio.com/download"
 * Download Git via : 
