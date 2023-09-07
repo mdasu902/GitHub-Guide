@@ -9,5 +9,5 @@
 
 ## Difference Between Open-Source Textbook and Open Textbook
 
-- Open Textbook : 
+## Open Textbook : 
     - 
