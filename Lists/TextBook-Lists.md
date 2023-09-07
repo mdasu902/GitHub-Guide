@@ -1,4 +1,4 @@
-# This is a list of Open-Source Textbooks which are similar to the stacks project
+# This is a list of Open-Source/Open Textbooks which are similar to the stacks project
 - [HoTT book](https://homotopytypetheory.org/book/)
 - [The Open-Logic Project](https://openlogicproject.org/) 
 - [Kerodon](https://kerodon.net/)
@@ -6,3 +6,8 @@
 - [Open-Source Calculus and analysis ](https://oscalculusandanalysis.ugent.be/#authors) 
 - [Applied Combinatorics](https://www.appliedcombinatorics.org/appcomb/open-source/)
 - [Pi-Base](https://github.com/pi-base/data)
+
+## Difference Between Open-Source Textbook and Open Textbook
+
+- Open Textbook : 
+    - 
