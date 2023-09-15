@@ -10,5 +10,5 @@
 ## Difference Between Open-Source Textbook and Open Textbook
 
 ## Open Textbook : 
-    - Usually an Open Textbook is a completed textbook that has collated all the information. Instead of paying to read the book Authors usually put the name under an "Open License" so people can read the book free off Charge.
-    - From the examples that are on GitHub, Authors use GitHub as a place to compile an Errata where they constantly update any mistakes or errors within the book
+- Usually an Open Textbook is a completed textbook that has collated all the information. Instead of paying to read the book Authors usually put the name under an "Open License" so people can read the book free off Charge.
+- From the examples that are on GitHub, Authors use GitHub as a place to compile an Errata where they constantly update any mistakes or errors within the book
