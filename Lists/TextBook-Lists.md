@@ -17,3 +17,5 @@
 - Also, the source code may not be available in an Open Textbook since the textbook would have already been published and online ready to view. Therefore, most of the time the public come read the textbook and open "issues" within GitHub for the Authors and team to manage and correct.
 
 ## Open-Source Textbook
+
+- An Open-Source Textbook allows the average user to consume distribute and modify the source code that the book has been coded in. There will be a team where they will supervise the existing code so they can distrtibute the book in it's most accurate form. For example, if the books source code is on GitHub then an average user can fork the repository make the additions and changes they want to and then using the pull request tool they can explain the additions they have made and the team will review these changes and distribute the new section within the book.
